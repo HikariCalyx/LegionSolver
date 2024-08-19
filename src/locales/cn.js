@@ -49,7 +49,8 @@ export default {
     mage250: '等级 250 魔法师',
     pirate250: '等级 250 海盗',
     xenon250: '等级 250 尖兵',
-    abyssalExpedition: 'Abyssal Expedition',
+    abyssalExpeditionMinar: '深渊远征队：米纳尔森林',
+    abyssalExpeditionElNath: '深渊远征队：冰峰雪域',
 
     /** special jobs */
     enhancedLab200: 'Lvl 200 Enhanced Lab',
